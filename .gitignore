@@ -1,0 +1,9 @@
+# Upstream repositories are reproducible research inputs, never vendored.
+/research/upstreams/
+/research/reports/*
+!/research/reports/README.md
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example

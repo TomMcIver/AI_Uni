@@ -1,0 +1,17 @@
+name: Research
+description: Propose evidence gathering
+title: "[Research]: "
+labels: ["type:research", "area:research"]
+body:
+  - type: textarea
+    id: question
+    attributes: { label: Research question and decision enabled }
+    validations: { required: true }
+  - type: textarea
+    id: sources
+    attributes: { label: Primary sources and evidence required }
+    validations: { required: true }
+  - type: textarea
+    id: deliverable
+    attributes: { label: Acceptance criteria and report location }
+    validations: { required: true }

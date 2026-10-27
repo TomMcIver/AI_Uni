@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "repositories": {
+    "openclaw": {
+      "name": "openclaw",
+      "url": "https://github.com/openclaw/openclaw.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "total-agent-memory": {
+      "name": "total-agent-memory",
+      "url": "https://github.com/vbcherepanov/total-agent-memory.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "multiagents": {
+      "name": "multiagents",
+      "url": "https://github.com/zetbrush/multiagents.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "orchestra": {
+      "name": "orchestra",
+      "url": "https://github.com/theorchestradev/orchestra.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "letta-code": {
+      "name": "letta-code",
+      "url": "https://github.com/letta-ai/letta-code.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "openhands": {
+      "name": "openhands",
+      "url": "https://github.com/OpenHands/OpenHands.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "software-agent-sdk": {
+      "name": "software-agent-sdk",
+      "url": "https://github.com/OpenHands/software-agent-sdk.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "hermes-agent": {
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "moyai": {
+      "name": "moyai",
+      "url": "https://github.com/BerriAI/moyai.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "opencode": {
+      "name": "opencode",
+      "url": "https://github.com/anomalyco/opencode.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "librechat": {
+      "name": "librechat",
+      "url": "https://github.com/danny-avila/LibreChat.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "open-webui": {
+      "name": "open-webui",
+      "url": "https://github.com/open-webui/open-webui.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "mem0": {
+      "name": "mem0",
+      "url": "https://github.com/mem0ai/mem0.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "openmemory": {
+      "name": "openmemory",
+      "url": "https://github.com/mem0ai/openmemory.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "graphiti": {
+      "name": "graphiti",
+      "url": "https://github.com/getzep/graphiti.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "litellm": {
+      "name": "litellm",
+      "url": "https://github.com/BerriAI/litellm.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    },
+    "codex": {
+      "name": "codex",
+      "url": "https://github.com/openai/codex.git",
+      "status": "not-cloned",
+      "commit": null,
+      "retrieved_at": null
+    }
+  }
+}

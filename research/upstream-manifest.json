@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "purpose": "Read-only research dependencies; never product source.",
+  "repositories": [
+    {"name":"openclaw","url":"https://github.com/openclaw/openclaw.git","category":"core","directory":"openclaw"},
+    {"name":"total-agent-memory","url":"https://github.com/vbcherepanov/total-agent-memory.git","category":"core","directory":"total-agent-memory"},
+    {"name":"multiagents","url":"https://github.com/zetbrush/multiagents.git","category":"core","directory":"multiagents"},
+    {"name":"orchestra","url":"https://github.com/theorchestradev/orchestra.git","category":"core","directory":"orchestra"},
+    {"name":"letta-code","url":"https://github.com/letta-ai/letta-code.git","category":"core","directory":"letta-code"},
+    {"name":"openhands","url":"https://github.com/OpenHands/OpenHands.git","category":"all","directory":"OpenHands"},
+    {"name":"software-agent-sdk","url":"https://github.com/OpenHands/software-agent-sdk.git","category":"all","directory":"software-agent-sdk"},
+    {"name":"hermes-agent","url":"https://github.com/NousResearch/hermes-agent.git","category":"all","directory":"hermes-agent"},
+    {"name":"moyai","url":"https://github.com/BerriAI/moyai.git","category":"all","directory":"moyai"},
+    {"name":"opencode","url":"https://github.com/anomalyco/opencode.git","category":"all","directory":"opencode"},
+    {"name":"librechat","url":"https://github.com/danny-avila/LibreChat.git","category":"all","directory":"LibreChat"},
+    {"name":"open-webui","url":"https://github.com/open-webui/open-webui.git","category":"all","directory":"open-webui"},
+    {"name":"mem0","url":"https://github.com/mem0ai/mem0.git","category":"all","directory":"mem0"},
+    {"name":"openmemory","url":"https://github.com/mem0ai/openmemory.git","category":"all","directory":"openmemory"},
+    {"name":"graphiti","url":"https://github.com/getzep/graphiti.git","category":"all","directory":"graphiti"},
+    {"name":"litellm","url":"https://github.com/BerriAI/litellm.git","category":"all","directory":"litellm"},
+    {"name":"codex","url":"https://github.com/openai/codex.git","category":"all","directory":"codex"}
+  ]
+}
